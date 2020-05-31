@@ -1,0 +1,58 @@
+.dasborad_text h1 {
+  color: #4592af;
+  border-bottom: 2px solid #4592af;
+}
+.dasborad_text p {
+  color: white;
+}
+.text {
+  padding-left: 6% !important;
+  padding-right: 6% !important;
+}
+.contained {
+  width: 100vw !important;
+  display: flex;
+  min-height: 50vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: rgb(143, 186, 188);
+}
+.img {
+  height: 10vh;
+  width: 40vh !important;
+}
+.img-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.pink-container {
+  display: flex;
+  align-items: center;
+  min-height: 50vh;
+  background-color: #20587e;
+}
+.skin-container {
+  width: 25vw !important;
+  margin-left: 3vw !important;
+  background-color: rgb(143, 186, 188);
+  color: white;
+}
+.footer {
+  min-height: 20vh;
+  display: flexbox;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: #14142c;
+}
+.icons {
+  letter-spacing: 2em;
+  padding-top: 1%;
+  color: rgb(255, 255, 255);
+}
+#basic-nav-dropdown {
+  color: white !important;
+}
